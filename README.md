@@ -1,1 +1,1 @@
-# SW-XIAO-Arduino-MG24-015
+# SW-XIAO-Arduino-USB-015
